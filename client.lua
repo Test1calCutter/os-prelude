@@ -8,7 +8,7 @@ local function displayHTML()
         
         SendNUIMessage({
             type = 'display_html',
-            url = 'url_to_your_html_file'
+            url = 'HTML/index.html'
         })
     end
 end
